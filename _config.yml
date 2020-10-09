@@ -3,13 +3,14 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 你好，世界！
+title: 三味书屋
 subtitle: 
-description: 欢迎来到码夫的世界！
+description: 焚膏油以继晷，恒兀兀以穷年
 keywords:
-author: BruceJiao
+author: 怪兽哥
 language: zh-Hans
 timezone: 
+# mathjax: true
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
@@ -80,8 +81,21 @@ admin:
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
 # theme: landscape
-theme: next
 #theme: MyFairLady
+# theme: maupassant
+# theme: next
+theme: bubuzou
+
+# search
+search:
+  path: search.xml
+  field: post
+
+archive_generator:
+    per_page: 0
+    yearly: false
+    monthly: false
+    daily: false
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html

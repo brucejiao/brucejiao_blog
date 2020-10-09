@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>你好，世界!</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2018-12-16T10:40:00.247Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>BruceJiao</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>commonweal</title>
+    <link href="http://yoursite.com/2018/12/16/commonweal/"/>
+    <id>http://yoursite.com/2018/12/16/commonweal/</id>
+    <published>2018-12-16T10:40:00.000Z</published>
+    <updated>2018-12-16T10:40:00.247Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>20181216</title>
+    <link href="http://yoursite.com/2018/12/16/20181216/"/>
+    <id>http://yoursite.com/2018/12/16/20181216/</id>
+    <published>2018-12-16T10:04:59.000Z</published>
+    <updated>2018-12-16T10:05:00.379Z</updated>
+    
+    <content type="html"><![CDATA[<p>123123123</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;123123123&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://yoursite.com/2018/12/14/hello-world/"/>
+    <id>http://yoursite.com/2018/12/14/hello-world/</id>
+    <published>2018-12-14T07:02:01.268Z</published>
+    <updated>2018-12-14T05:24:23.012Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>测试18026</title>
+    <link href="http://yoursite.com/2018/12/14/brceblog/"/>
+    <id>http://yoursite.com/2018/12/14/brceblog/</id>
+    <published>2018-12-14T05:57:16.000Z</published>
+    <updated>2018-12-17T03:12:12.258Z</updated>
+    
+    <content type="html"><![CDATA[<h6 id="新建一个新的桌面"><a href="#新建一个新的桌面" class="headerlink" title="新建一个新的桌面"></a>新建一个新的桌面</h6><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">Windows + Ctrl + D</span><br></pre></td></tr></table></figure><h6 id="关闭当前新建的的桌面"><a href="#关闭当前新建的的桌面" class="headerlink" title="关闭当前新建的的桌面"></a>关闭当前新建的的桌面</h6><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">Windows + Ctrl + F4</span><br></pre></td></tr></table></figure><a id="more"></a><h6 id="切换桌面"><a href="#切换桌面" class="headerlink" title="切换桌面"></a>切换桌面</h6><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">Windows + Ctrl + 左键/右键</span><br></pre></td></tr></table></figure>]]></content>
+    
+    <summary type="html">
+    
+      &lt;h6 id=&quot;新建一个新的桌面&quot;&gt;&lt;a href=&quot;#新建一个新的桌面&quot; class=&quot;headerlink&quot; title=&quot;新建一个新的桌面&quot;&gt;&lt;/a&gt;新建一个新的桌面&lt;/h6&gt;&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;Windows + Ctrl + D&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;h6 id=&quot;关闭当前新建的的桌面&quot;&gt;&lt;a href=&quot;#关闭当前新建的的桌面&quot; class=&quot;headerlink&quot; title=&quot;关闭当前新建的的桌面&quot;&gt;&lt;/a&gt;关闭当前新建的的桌面&lt;/h6&gt;&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;Windows + Ctrl + F4&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>

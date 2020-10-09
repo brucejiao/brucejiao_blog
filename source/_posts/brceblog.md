@@ -10,6 +10,7 @@ Windows + Ctrl + D
 ```
 Windows + Ctrl + F4
 ```
+<!--more-->
 ###### 切换桌面
 ```
 Windows + Ctrl + 左键/右键
